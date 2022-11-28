@@ -1,0 +1,30 @@
+.img-ps {
+  width: 45%;
+  height: 60%;
+  margin: 2%;
+  padding: 2%;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 6px 6px 0px 0px;
+  opacity: 0.91;
+
+  transition: transform 1s;
+}
+.img-ps:hover {
+  cursor: pointer;
+  transform: scale(1.3);
+  -webkit-transform: scale(1.1);
+}
+.container-ps {
+  margin: 2%;
+  padding: 2%;
+}
+.addtocart-ps {
+  border-radius: 20px;
+  border: solid;
+  border-color: blue;
+  padding: 1%;
+  margin: 1%;
+}
