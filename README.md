@@ -98,12 +98,4 @@ Contributions are what make the open source community such an amazing place to l
 4. Open a Pull Request
 
 
-## Contributors
-
-[Shivam Singla](https://github.com/shivam7374)
-
-[Akash Singh](https://github.com/Akashsingh310)
-
-[Bhavit Singla](https://github.com/BHAVIT-SINGLA)
-
 
